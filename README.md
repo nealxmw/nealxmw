@@ -5,6 +5,9 @@
 你好，我是 [neal](https://github.com/nealxmw)，一位资历尚浅的前端工程师。
 <br />
 
+![](https://github-readme-stats.vercel.app/api/?username=nealxmw&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<br />
+
 💬 WeChat: [\_nealx]()
 <br />
 
