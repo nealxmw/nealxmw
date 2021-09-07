@@ -13,13 +13,13 @@
 **技术栈 与 开发工具:**
 <br />
 
-<code><img height="20" src="https://github.com/nealxmw/nealxmw/blob/master/img/html.png"></code>
-<code><img height="20" src="https://github.com/nealxmw/nealxmw/blob/master/img/css.png"></code>
-<code><img height="20" src="https://github.com/nealxmw/nealxmw/blob/master/img/js.png"></code>
-<code><img height="20" src="https://github.com/nealxmw/nealxmw/blob/master/img/vue.png"></code>
-<code><img height="20" src="https://github.com/nealxmw/nealxmw/blob/master/img/git.png"></code>
-<code><img height="20" src="https://github.com/nealxmw/nealxmw/blob/master/img/vscode.png"></code>
-<code><img height="20" src="https://github.com/nealxmw/nealxmw/blob/master/img/more.png"></code>
+<code><img height="20" src="https://github.com/nealxmw/nealxmw/blob/main/img/html.png"></code>
+<code><img height="20" src="https://github.com/nealxmw/nealxmw/blob/main/img/css.png"></code>
+<code><img height="20" src="https://github.com/nealxmw/nealxmw/blob/main/img/js.png"></code>
+<code><img height="20" src="https://github.com/nealxmw/nealxmw/blob/main/img/vue.png"></code>
+<code><img height="20" src="https://github.com/nealxmw/nealxmw/blob/main/img/git.png"></code>
+<code><img height="20" src="https://github.com/nealxmw/nealxmw/blob/main/img/vscode.png"></code>
+<code><img height="20" src="https://github.com/nealxmw/nealxmw/blob/main/img/more.png"></code>
 
 **我的项目:**
 
