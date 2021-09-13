@@ -1,8 +1,5 @@
-### Hey，I'm neal. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey，I'm [neal](https://nealxmw.github.io/). <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<br />
-
-你好，我是 [neal](https://github.com/nealxmw)，一位资历尚浅的前端工程师。
 <br />
 
 ![](https://github-readme-stats.vercel.app/api/?username=nealxmw&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
@@ -34,7 +31,7 @@
   <summary>2020年</summary>
 <div style="width: 98%; margin: 0 auto">
 <ul>
-<li>1月开始实习工作。</li>
+<li>1月开始实习。</li>
 <li>6月大学毕业。</li>
 <li>7月实习转正。</li>
 </ul>
